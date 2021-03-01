@@ -1,0 +1,15 @@
+﻿  BlankProject.cpp
+  Renderer.cpp
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(13,56): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(52,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(56,77): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(56,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(202,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(256,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(261,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(263,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Triangle.cpp
+  Generating Code...
+C:\Users\OMISTAJA\Documents\GitHub\CSC8502\Blank Project\Renderer.cpp(276,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  BlankProject.vcxproj -> C:\Users\OMISTAJA\Documents\GitHub\CSC8502\x64\Debug\Blank Project.exe
